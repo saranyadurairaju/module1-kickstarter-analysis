@@ -18,7 +18,7 @@ As there are more category and items involved, we can apply filter for better un
 
 Excel Document "Kickstarter_Challenge" in the below link has all the converted and modified data in the "Kickstarter" sheet. 
 
-![Kickstarter_Conversions](https://github.com/saranyadurairaju/module1-kickstarter-analysis/blob/main/Date_Based_chart.png)
+![Kickstarter_Conversions](https://github.com/saranyadurairaju/module1-kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx)
  
 ### Analysis of Outcomes Based on Launch Date
 
