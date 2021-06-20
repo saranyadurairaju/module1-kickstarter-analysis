@@ -3,7 +3,8 @@ Learning and analyzing data with Excel
 ##
 Theatre Plays are giving Louise more profit 
 
-* Charts
+##Charts
+
 ![Date_Based_chart] (https://github.com/saranyadurairaju/module1-kickstarter-analysis/blob/main/Date_Based_chart.png)
 ![Parent_Category_chart] (https://github.com/saranyadurairaju/module1-kickstarter-analysis/blob/main/Parent_Category_chart.png)
 
@@ -46,6 +47,8 @@ Even after categorised the data and try to analyze, its very difficult to come t
 
 4) Excel Document "Kickstarter_Challenge" given above has "Theater Outcomes by Launch Date" sheet which has the Pivot table and chart. 
 
+![alt text](http://url/to/img.png)
+
 ### Analysis of Outcomes Based on Goals
 
 1) For every project "Goal amount" is the main parameter which decides the Success of it.
@@ -55,6 +58,8 @@ Even after categorised the data and try to analyze, its very difficult to come t
 3) We can easily compare the percentage of Outcomes in the Goal range with the Line chart.
 
 4) Excel Document "Kickstarter_Challenge" given above has "Outcomes based on Goals" sheet which has the table and chart for comparison. 
+
+![alt text](http://url/to/img.png)
 
 ### Challenges and Difficulties Encountered
 
