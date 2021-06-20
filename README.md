@@ -47,7 +47,7 @@ Even after categorised the data and try to analyze, its very difficult to come t
 
 4) Excel Document "Kickstarter_Challenge" given above has "Theater Outcomes by Launch Date" sheet which has the Pivot table and chart. 
 
-![alt text](http://url/to/img.png)
+![date_based_chart](https://github.com/saranyadurairaju/module1-kickstarter-analysis/blob/main/Date_Based_chart.png)
 
 ### Analysis of Outcomes Based on Goals
 
@@ -59,7 +59,7 @@ Even after categorised the data and try to analyze, its very difficult to come t
 
 4) Excel Document "Kickstarter_Challenge" given above has "Outcomes based on Goals" sheet which has the table and chart for comparison. 
 
-![alt text](http://url/to/img.png)
+![parent_category_chart](https://github.com/saranyadurairaju/module1-kickstarter-analysis/blob/main/Parent_Category_chart.png)
 
 ### Challenges and Difficulties Encountered
 
