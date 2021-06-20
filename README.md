@@ -48,24 +48,24 @@ However we catagorize the data, its difficult to come for a conclusion without v
 
 ## Results
 
-- The Outcomes based on Launch Date
+#### The Outcomes based on Launch Date
 
 * Theater category has more successful Outcomes and Total Projects compare to all other categories. 
 
 * It has more successful projects in the month of May, June and July, which means summer vacation is a peak time to do the play.
 
-- The Outcomes based on Goals
+#### The Outcomes based on Goals
  
 * When the goal amount is less than 5000 it has more successful ratio and then between 35000 to 45000. But if we think of a common situation, less 5000 works better always.
 
-- Limitations of the dataset
+#### Limitations of the dataset
 
-* Having the data with Preference of Category and Goals for differnt age limits and types of people help us to get more successful outcome.  
+   *Having the data with Preference of Category and Goals for differnt age limits and types of people help us to get more successful outcome.  
 
-- Other possible tables and/or graphs
+-- Other possible tables and/or graphs
 
-* As we have many countries involved in this data, we can do country and category based comparison to find success ratio on each country.
+- As we have many countries involved in this data, we can do country and category based comparison to find success ratio on each country.
 
-* Some category play can be successful for higher Goal amounts as well. So finding the highest possible goal amounts for each category help Loiuse to collect more funds.
+-  Some category play can be successful for higher Goal amounts as well. So finding the highest possible goal amounts for each category help Loiuse to collect more funds.
 
 
