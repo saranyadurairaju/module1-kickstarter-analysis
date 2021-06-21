@@ -14,12 +14,15 @@ The Kickstarter data involved in this project has different category, country, g
 
 ## Analysis and Challenges
 
-As there are more category and items involved, we can apply filter for better understanding. Also the Average and Percentage amounts can be calculated from Goal and Pledge amounts to analyze the data properly. Since the timestamps are not readable, it can be converted by using formula. 
+As there are more category and items involved, we can do some modifications in the existing data and create new columns for better understanding. For example,
 
-Excel Document "Kickstarter_Challenge" in the below link has all the converted and modified data in the "Kickstarter" sheet. 
+* Applying Filter for a better view
+* Calculating the Average and Percentage amounts from Goal and Pledge amounts.
+* Dividing the Category into Parent & Sub categories 
+* Converting Timestamps to a readable format using formula. 
 
-![Kickstarter_Conversions](https://github.com/saranyadurairaju/module1-kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx)
- 
+![Newly created_Columns](https://github.com/saranyadurairaju/module1-kickstarter-analysis/blob/main/Date_Based_chart.png)
+
 ### Analysis of Outcomes Based on Launch Date
 
 However we catagorize the data, its difficult to come for a conclusion without visualization. So, we need to use Pivot and other Formulas to have this visualization is needed.
@@ -48,6 +51,10 @@ However we catagorize the data, its difficult to come for a conclusion without v
 
 ## Results
 
+Below is the Excel worksheet with updated "Kickstarter" data and above charts:
+
+![Kickstarter_Conversions](https://github.com/saranyadurairaju/module1-kickstarter-analysis/blob/main/data-1-1-3-StarterBook.xlsx)
+
 #### The Outcomes based on Launch Date
 
 * Theater category has more successful Outcomes and Total Projects compare to all other categories. 
@@ -60,7 +67,7 @@ However we catagorize the data, its difficult to come for a conclusion without v
 
 #### Limitations of the dataset
 
-  Having the data with Preference of Category and Goals for differnt age limits and types of people help us to get more successful outcome.  
+  Having the data with Preference of Category and Goals for differnt age limits and types of people (based on Sex, Proffession etc) help us to get more successful outcome. 
 
 #### Other possible tables and/or graphs
 
@@ -68,4 +75,4 @@ However we catagorize the data, its difficult to come for a conclusion without v
 
 - Some category play can be successful for higher Goal amounts as well. So finding the highest possible goal amounts for each category help Loiuse to collect more funds.
 
-
+I hope Louise can end up with a Successful fundraising campaign with all of the above data Analysis. Wishing Louise all the very best!
